@@ -1,6 +1,6 @@
 import pygame
 import chess
-
+from GazePrediction import ga
 # Constants
 WIDTH, HEIGHT = 640, 640
 SQUARE_SIZE = WIDTH // 8
